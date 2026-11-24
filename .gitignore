@@ -1,0 +1,13 @@
+
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Local environment files
+.env
